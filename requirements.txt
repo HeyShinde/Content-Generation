@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-generativeai
+mistralai
+diffusers
+transformers
+pillow
+python-dotenv
